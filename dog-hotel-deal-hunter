@@ -1,0 +1,6 @@
+dog-hotel-deal-hunter/
+├── deal_hunter.py
+├── requirements.txt
+└── .github/
+    └── workflows/
+        └── schedule_hunter.yml
